@@ -25,7 +25,7 @@ export const CardImage = styled.div`
     rounded-t-lg
   `}
 
-  background-image: url("../../../images/image-product-mobile.jpg");
+  background-image: url("./product-card/images/image-product-mobile.jpg");
   min-height: 408px;
   max-width: 450px;
 
@@ -35,7 +35,7 @@ export const CardImage = styled.div`
     border-bottom-left-radius: 0.5rem;
     border-top-left-radius: 0.5rem;
     border-top-right-radius: 0rem;
-    background-image: url("../../../images/image-product-desktop.jpg");
+    background-image: url("./product-card/images/image-product-desktop.jpg");
     min-height: 600px;
     max-width: 350px;
   }
