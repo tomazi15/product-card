@@ -41,14 +41,6 @@ export const CardImage = styled.div`
   }
 `;
 
-// export const Image = styled.img`
-//   ${tw`
-//     flex-col
-//     justify-center
-//     items-center
-//   `}
-// `;
-
 export const CardDescriptionContainer = styled.div`
   ${tw`
     w-10/12

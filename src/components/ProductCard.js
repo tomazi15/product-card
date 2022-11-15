@@ -10,7 +10,7 @@ import {
   CardDescriptionStrikethrough,
   CardImage,
 } from "./styles/Card.styled";
-import { ReactComponent as ShoppingCartIcon } from "../assets/images/icon-cart.svg";
+import { ReactComponent as ShoppingCartIcon } from "./styles/images/icon-cart.svg";
 
 export const ProductCard = () => {
   return (
